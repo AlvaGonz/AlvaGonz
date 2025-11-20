@@ -28,10 +28,25 @@ Welcome to my GitHub profile! I'm a passionate software engineering student from
 
 ## 💥 Tech Stack & Tools
 
+<div align="center">
+  <a href="https://skillicons.dev/">
+    <img src="https://skillicons.dev/icons?i=js,cs,sql,html,css,nodejs,react,docker,git,github,vscode,figma,mysql,mongodb&perline=8" />
+  </a>
+</div>
+
 **Languages:** JavaScript | C# | SQL | HTML/CSS  
 **Frameworks & Libraries:** React | Node.js | ASP.NET  
 **Tools & Platforms:** Git | GitHub | Docker | Visual Studio Code | Figma  
 **Databases:** MySQL | MongoDB | SQL Server
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlvaGonz&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlvaGonz&layout=compact&langs_count=7&theme=dark" />
+</div>
 
 ---
 
@@ -46,9 +61,9 @@ Welcome to my GitHub profile! I'm a passionate software engineering student from
 
 ## 🔗 Connect With Me
 
-- LinkedIn: [Coming Soon]
-- Twitter: [@AlvaGonz]
-- Email: Contact through GitHub
+- 💼 **LinkedIn:** [Adrian Alexander A.](https://www.linkedin.com/in/adrian-alexander-a-4a8842217/)
+- 📧 **Email:** Contact through GitHub
+- 💻 **Portfolio:** [AlvaGonz.github.io](https://alvagonz.github.io)
 
 ---
 
