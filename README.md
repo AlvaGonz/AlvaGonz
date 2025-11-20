@@ -29,7 +29,7 @@ I'm a software engineering student from the Dominican Republic, constantly learn
 
 <div align="center">
   <a href="https://skillicons.dev/">
-    <img src="https://skillicons.dev/icons?i=js,cs,sql_server,html,css,nodejs,react,docker,git,github,vscode,figma,mysql,mongodb&perline=8" />
+    <img src="https://skillicons.dev/icons?i=js,cs,sql-server,html,css,nodejs,react,docker,git,github,vscode,figma,mysql,mongodb&perline=8" />
   </a>
 </div>
 
