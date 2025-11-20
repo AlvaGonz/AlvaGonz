@@ -2,7 +2,7 @@
 
 ### Software Engineer | QA Enthusiast | Clean Code Advocate
 
-Welcome to my GitHub profile! I'm a passionate software engineering student from the Dominican Republic, constantly learning and building projects that make a difference.
+I'm a software engineering student from the Dominican Republic, constantly learning and building projects that make a difference.
 
 ---
 
@@ -12,7 +12,6 @@ Welcome to my GitHub profile! I'm a passionate software engineering student from
 - 🚀 Passionate about writing clean, efficient, and maintainable code
 - 📄 Currently working on projects involving **Docker**, **JavaScript**, and **C#**
 - 🤔 Always interested in learning new technologies and best practices
-- 🇩🇴 Based in Dominican Republic (UTC -06:00)
 
 ---
 
@@ -44,7 +43,7 @@ Welcome to my GitHub profile! I'm a passionate software engineering student from
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlvaGonz&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  /*<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlvaGonz&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />*/
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlvaGonz&layout=compact&langs_count=7&theme=dark" />
 </div>
 
@@ -67,4 +66,4 @@ Welcome to my GitHub profile! I'm a passionate software engineering student from
 
 ---
 
-### "The best code is the code that is easy to understand and maintain." 👋
+### "Keep calm, trust in Jesus"
