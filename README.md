@@ -42,7 +42,9 @@ I'm a software engineering student from the Dominican Republic, constantly learn
 
 ## 📊 GitHub Stats
 
-<p align="center">  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlvaGonz&layout=compact&langs_count=7&theme=dark" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlvaGonz&layout=compact&langs_count=8&theme=dark&hide_border=true)](https://github.com/AlvaGonz?tab=repositories)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlvaGonz&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true)
 
 ---
 
