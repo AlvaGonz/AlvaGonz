@@ -48,7 +48,7 @@
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvagonz)](https://github.com/anuraghazra/github-readme-stats)
+[![AlvaGonz's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlvaGonz)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>  
 
