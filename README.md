@@ -46,12 +46,11 @@
 
 
 ## Github Stats  
-[![AlvaGonz's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlvaGonz)](https://github.com/anuraghazra/github-readme-stats)
-![github stats](https://github-readme-stats.vercel.app/api?username=AlvaGonz&show_icons=true&theme=radical)
+[![AlvaGonz's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlvaGonz)](https://github.com/AlvaGonz)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=AlvaGonz&show_icons=true&theme=radical)](https://github.com/AlvaGonz)
+![Profile views](https://komarev.com/ghpvc/?username=AlvaGonz&style=flat-square)
 
 
-
-![Profile views counter](https://komarev.com/ghpvc/?username=AlvaGonz&&style=flat-square)  
 <br />
 
 
