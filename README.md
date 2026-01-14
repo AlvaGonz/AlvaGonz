@@ -1,4 +1,4 @@
-# Adrian A. A. Gonzalez
+# Hey 👋, I'm Adrian A. A. Gonzalez
 
 ### Software Engineer | QA Enthusiast | Clean Code Advocate
 
@@ -10,18 +10,7 @@ I'm a software engineering student from the Dominican Republic, constantly learn
 
 - 🎯‍♂️ I'm a **Software Engineering student** with a focus on quality assurance and full-stack development
 - 🚀 Passionate about writing clean, efficient, and maintainable code
-- 📄 Currently working on projects involving **Docker**, **JavaScript**, and **C#**
-- 🤔 Always interested in learning new technologies and best practices
-
----
-
-## 📚 My Current Studies
-
-- Software Engineering fundamentals & advanced concepts
-- Quality Assurance and automated testing
-- Web development with JavaScript and frameworks
-- Cloud technologies and containerization
-- API development and RESTful services
+- 🤔 Always interested in learning new technologies and best practices, my curiosity plays dirty
 
 ---
 
@@ -37,15 +26,6 @@ I'm a software engineering student from the Dominican Republic, constantly learn
 **Frameworks & Libraries:** React | Node.js | ASP.NET  
 **Tools & Platforms:** Git | GitHub | Docker | Visual Studio Code | Figma  
 **Databases:** MySQL | MongoDB | SQL Server
-
----
-
-## 🌟 Featured Projects
-
-- **AlvaGonz.github.io** - Personal CV Project
-- **FAKKE-NEWS** - Modern news application with editorial design inspired by WSJ
-- **RebekaPOS** - Point of Sale system
-- Various QA and automation projects
 
 ---
 
