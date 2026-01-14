@@ -13,7 +13,6 @@
 
 <br/>  
 
----
 
 ## 🏴 About Me
 
@@ -21,7 +20,6 @@
 - 🤔 Always interested in learning new technologies and best practices, my curiosity plays dirty.
 - ⚡ Fun fact: Curiosity plays dirty.
 <br/>  
----
 
 ## Languages and Tools  
 <div align="center">  
@@ -72,8 +70,7 @@
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
 ---
 
 ## 🔗 Connect With Me
