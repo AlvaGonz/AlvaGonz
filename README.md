@@ -46,21 +46,13 @@
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
-
 [![AlvaGonz's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlvaGonz)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>  
 
-  
-
-<br/>  
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=AlvaGonz&&style=flat-square)  
   
-
-<br/>  
-
 
 <br />
 
