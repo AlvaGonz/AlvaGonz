@@ -47,7 +47,8 @@
 
 ## Github Stats  
 [![AlvaGonz's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlvaGonz)](https://github.com/anuraghazra/github-readme-stats)
-
+![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=AlvaGonz&show_icons=true&theme=radical)
+![github stats](https://github-readme-stats.vercel.app/api?username=AlvaGonz&show_icons=true&theme=radical)
 <br/>  
 
 
