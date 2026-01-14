@@ -1,6 +1,6 @@
 # Hey 👋, I'm Adrian A. A. Gonzalez
-
-### Software Engineer | QA Enthusiast | Clean Code Advocate
+ 
+### Software Engineer | QA Enthusiast | CyberSecurity Beginner | Data Analyst coming soon... (stay updated)
 
 I'm a software engineering student from the Dominican Republic, constantly learning and building projects that make a difference.
 
