@@ -52,7 +52,8 @@
 - 💻 **Portfolio:** [AlvaGonz.github.io](https://alvagonz.github.io)
 
 ---
-
-### "Keep calm, trust in Jesus"
 <br/> 
 ![Profile views](https://komarev.com/ghpvc/?username=AlvaGonz&style=flat-square)
+
+### "Keep calm, trust in Jesus"
+
