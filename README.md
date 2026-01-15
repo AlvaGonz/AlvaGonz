@@ -50,7 +50,7 @@
 ---
 
 <br/> 
-<div><img src="https://komarev.com/ghpvc/?username=AlvaGonz&style=flat-square" alt="Profile views"/></div>
+<div><img src="https://komarev.com/ghpvc/?username=AlvaGonz&style=flat-square" alt="Visitors"/></div>
 
 ### "Keep calm, trust in Jesus"
 
