@@ -10,9 +10,7 @@
 <a href="https://linkedin.com/in/adrian-alexander-a-4a8842217/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-
 <br/>  
-
 
 ## 🏴 About Me
 
@@ -41,7 +39,6 @@
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
 </div>  
-
 <br/>
 
 ## 🔗 Connect With Me in the WWW
@@ -49,8 +46,8 @@
 - 💼 **LinkedIn:** [Adrian Alexander A.](https://www.linkedin.com/in/adrian-alexander-a-4a8842217/)
 - 📧 **Email:** Contact through GitHub
 - 💻 **Portfolio:** [AlvaGonz.github.io](https://alvagonz.github.io)
-
 ---
+
 <br/> 
 <div><img src="https://komarev.com/ghpvc/?username=AlvaGonz&style=flat-square" alt="Profile views"/></div>
 
