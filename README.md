@@ -52,7 +52,7 @@
 
 ---
 <br/> 
-![Profile views](https://komarev.com/ghpvc/?username=AlvaGonz&style=flat-square)
+<div align="center"><img src="https://komarev.com/ghpvc/?username=AlvaGonz&style=flat-square" alt="Profile views"/></div>
 
 ### "Keep calm, trust in Jesus"
 
