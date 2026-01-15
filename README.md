@@ -50,7 +50,7 @@
 ---
 
 <br/> 
-<div>![visitors](https://vbr.nathanchung.dev/badge?page_id=AlvaGonz.AlvaGonz&color=00cf00)</div>
+<div>(https://vbr.nathanchung.dev/badge?page_id=AlvaGonz.AlvaGonz&color=00cf00)</div>
 
 ### "Keep calm, trust in Jesus"
 
