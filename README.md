@@ -1,6 +1,6 @@
 # Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />, I'm Adrian Alvarez Gonzalez
  
-### Software Engineer | QA Enthusiast | CyberSecurity Beginner | Data Analyst coming soon... (stay updated: <a href="https://alvagonz.github.io/" target="_blank">alvagonz.github.io</a>)
+### Software Engineer | QA Enthusiast | CyberSecurity Beginner | Data Analyst coming soon... (<a href="https://alvagonz.github.io/" target="_blank">stay updated</a>)
 <a href="https://github.com/AlvaGonz" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
