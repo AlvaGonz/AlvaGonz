@@ -1,5 +1,4 @@
-# Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
-<p align="center">, I'm Adrian Alvarez Gonzalez
+# Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />, I'm Adrian Alvarez Gonzalez
  
 ### Software Engineer | QA Enthusiast | CyberSecurity Beginner | Data Analyst coming soon... (stay updated)
 <a href="https://github.com/AlvaGonz" target="_blank">
