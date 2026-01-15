@@ -44,7 +44,7 @@
 
 <br/>
 
-## 🔗 Connect With Me
+## 🔗 Connect With Me in the WWW
 
 - 💼 **LinkedIn:** [Adrian Alexander A.](https://www.linkedin.com/in/adrian-alexander-a-4a8842217/)
 - 📧 **Email:** Contact through GitHub
@@ -52,7 +52,7 @@
 
 ---
 <br/> 
-<div align="center"><img src="https://komarev.com/ghpvc/?username=AlvaGonz&style=flat-square" alt="Profile views"/></div>
+<div><img src="https://komarev.com/ghpvc/?username=AlvaGonz&style=flat-square" alt="Profile views"/></div>
 
 ### "Keep calm, trust in Jesus"
 
