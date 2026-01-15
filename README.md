@@ -42,7 +42,7 @@
 <br/>
 
 
-## Connect With Me in the WWW<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="35" />
+## Connect With Me in the WWW<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="25" />
 
 - 💼 **LinkedIn:** [Adrian Alexander A.](https://www.linkedin.com/in/adrian-alexander-a-4a8842217/)
 - 📧 **Email:** Contact through GitHub
