@@ -41,7 +41,7 @@
 </div>  
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=AlvaGonz&theme=dark)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AlvaGonz&theme=dark" alt="GitHub Streak" /></a>
 
 ## 🔗 Connect With Me in the WWW
 
