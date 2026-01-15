@@ -43,18 +43,6 @@
 </div>  
 
 <br/>  
-
-
-## Github Stats  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlvaGonz)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=AlvaGonz&show_icons=true&theme=radical)](https://github.com/AlvaGonz)
-<br />
-![Profile views](https://komarev.com/ghpvc/?username=AlvaGonz&style=flat-square)
-
-
-
-
-
 ---
 
 ## 🔗 Connect With Me
@@ -66,3 +54,5 @@
 ---
 
 ### "Keep calm, trust in Jesus"
+<br/> 
+![Profile views](https://komarev.com/ghpvc/?username=AlvaGonz&style=flat-square)
