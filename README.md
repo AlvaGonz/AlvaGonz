@@ -14,7 +14,7 @@
 
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" />About Me
 
-- 🎯‍♂️ I'm a **Software Engineering student** from the Dominican Republic, constantly learning wherever my curiosity guides me.
+- 💻 I'm a **Software Engineering student** from the Dominican Republic, constantly learning wherever my curiosity guides me.
 - 🤔 Always interested in learning new technologies and best practices, my curiosity plays dirty.
 - ⚡ Fun fact: Curiosity plays dirty.
 <br/>  
@@ -40,6 +40,8 @@
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
 </div>  
 <br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=AlvaGonz&theme=dark)](https://git.io/streak-stats)
 
 ## 🔗 Connect With Me in the WWW
 
