@@ -19,7 +19,7 @@
 - ⚡ Fun fact: Curiosity plays dirty.
 <br/>  
 
-## Languages and Tools  
+##<img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = '23' />Languages and Tools  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
@@ -41,7 +41,6 @@
 </div>  
 <br/>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AlvaGonz&theme=dark" alt="GitHub Streak" /></a>
 
 ## 🔗 Connect With Me in the WWW
 
