@@ -15,7 +15,7 @@
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" />About Me
 
 - 💻 I'm a **Software Engineering student** from the Dominican Republic, constantly learning wherever my curiosity guides me.
-- 🤔 Always interested in learning new technologies and best practices, my curiosity plays dirty.
+- 🤔 Always interested in learning new technologies and best practices.
 - ⚡ Fun fact: Curiosity plays dirty.
 <br/>  
 
